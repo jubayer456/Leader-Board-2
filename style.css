@@ -20,6 +20,7 @@ main{
     padding: 30px;
     padding-top: 3px;
     margin: 30px;
+    border-radius: 10px;
 }
 .Section-titel{
     color: #562EFF;
